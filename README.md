@@ -1,4 +1,4 @@
-# Security-Network-Architecture-Diagram-
+# Security-Architecture-Diagram-
 
 Dept In Defense security Model 
 
