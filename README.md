@@ -1,6 +1,6 @@
 # Security-Architecture-Diagram-
 
-Dept In Defense security Model 
+Dept In Defense Security Model 
 
 Deploying a defense-in-depth security model is essential in modern cybersecurity to protect an organization's assets and data from a wide range of threats. This approach involves implementing multiple layers of security measures to create a robust and resilient defense system. 
 
